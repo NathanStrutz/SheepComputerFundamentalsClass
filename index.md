@@ -5,23 +5,23 @@ layout: home
 hero:
     name: "SHEEP Computing Fundamentals"
     text: "Parents and Students Guide"
-    tagline: "Information for Parents and Students about the SHEEP Computing Fundamentals class"
+    tagline: "Information for Parents and Students of the SHEEP Computing Fundamentals class"
 
     actions:
         - theme: brand
-          text: Markdown Examples
-          link: /markdown-examples
+          text: Contact
+          link: /contact
         - theme: alt
-          text: API Examples
-          link: /api-examples
+          text: Teachers
+          link: /about-your-teachers
 
 features:
-    - title: Feature A
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-      link: /contact
-    - title: Feature B
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-      link: /about-your-teachers
+    - title: What We Learn
+      details: What kinds of skils will you learn in this class?
+      link: /what-we-learn
+    - title: Your Computer
+      details: What computers can be used? Shopping tips.
+      link: /computer
     - title: Feature C
       details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
       link: /contact

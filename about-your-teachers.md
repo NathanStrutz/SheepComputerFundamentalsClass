@@ -8,7 +8,7 @@ title: About Nathan & Alanda
 
 # The Strutzes
 
-_It's pronounced "struts" like a car part, then plural it's "struts'es"_
+_It's pronounced "struts" like a car part, but plural, because it ends in `z`, it's "struts'es"_
 
 Nathan & Alanda have been married for over <how-many-years-ago :since="2001" /> years, and have homeschooled their 4 children since birth. This year is their <how-many-years-ago :since="2008" :ordinal="true" /> consecutive year teaching their own children.
 
