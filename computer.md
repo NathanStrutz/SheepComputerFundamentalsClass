@@ -19,17 +19,54 @@ Some common issues with bringing a laptop to school are the size and weight in a
 
 3. Add paint or stickers to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it.
 
-# What Computers Will Work?
+## What Computers Will Work?
 
-Our class exclusively used Windows-baced PCs. No Macs. No Chromebooks.
+Our class exclusively uses Windows-based notebook PCs and Chromebooks. Yes, I'm sorry, but no Apple products, no tablets, and phones aren't a capable substitute.
 
-:::warning TODO
-re-think this. Shouldn't we allow chromebooks? I don't think macs are a good idea.
+**All laptops need at least 8 GB of RAM**.
+
+Need help understanding the computer parts jargon? Check the [computer shopping](computer-shopping) page.
+
+### Windows
+
+Windows-based computers are the most common computers in the world, and knowing how to use them is critical to working most jobs. I highly recommend sending your student to school with one of these.
+
+Windows 10 and 11 are the current versions. If your laptop does not have this, it's too old. If it originally shipped with windows 8 or Vista, it's also probably too old.
+
+Please check your computer for **Windows "S Mode" that won't allow us to install programs** or do the things we need in our class.
+
+Please **check for Windows Updates** and install all the updates your Windows-based PC can handle. We need you to do this at home so that Windows doesn't try to install them during class. Time in our class is precious - we get 1 hour per week maximum - so we need to optimize it as much as possible.
+
+:::tip Permissions Check
+Please check to make sure that your student has the necessary permissions in Windows to install programs when we need to. Check the User Account Controls. If your student has a child account or limited account, please remove these restrictions.
 :::
 
-# What Software Will Be Needed?
+### Chromebooks
 
-Please make sure your child's computer has this:
+Chrome OS is wildly popular in schools because of its lower price. Chromebooks require less computing power, so the devices tend to be far less capable, which is a danger when we need to do heavy lifting.
 
--   Microsoft Windows 10 or 11
--   Web Browser like Firefox or Chrome
+:::warning Warning - Not All Chromebooks Will Work!
+Many Chromebooks do not have the computing power necessary to install Linux. This is especially true for older Chromebooks and those running MediaTek or Qualcomm (smartphone) CPUs.
+:::
+
+The best way to know your Chromebook is powerful enough is to buy one with an Intel or AMD CPU. Intel should be 10th generation or newer in the i3, i5, or i7 lineup, and avoid Pentium and Celeron. AMD should be 5th generation or later Ryzen CPUs, avoid Athlon.
+
+## What Software Will Be Needed?
+
+Please make sure your child's computer has the latest operating system updates.
+
+In Windows, use the start menu to search for Windows Update, or open the Settings and click on Update & Security.
+
+On Chrome OS, connect to WiFi and open the settings. Scroll down to About Chrome OS, and check for updates there.
+
+---
+
+I shouldn't have to specify since all computers have shipped with a web browser since 1999, but please make sure they have a web browser that you like, such as Firefox or Chrome.
+
+---
+
+Throughout the year, we will install programs on this computer. You can get a glimpse of them in the [syllabus](syllabus). There won't be many, and we will prefer online tools.
+
+## What Online Accounts Will Be Made?
+
+As you know, online tools always require accounts. This is critical to using applications such as Google Docs. We will do our best to form good password practices, and we will request permission from a parent or legal guardian for each service that we need.

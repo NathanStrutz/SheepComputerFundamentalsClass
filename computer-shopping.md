@@ -31,7 +31,7 @@ While computers are inherently technical, shopping for computers feels 10x mores
 -   **Mouse, Keyboard, Monitor** Accessories
     -   Laptops have these built-in, so they aren't required for the class. Feel free to plug into them at home.
     -   A wireless mouse can often help get things done faster. I recommend Logitech products. Feel free to bring a mouse.
--   **Manufacturer**, what computer builders are good?
+-   **Manufacturer**, what computers are good?
     -   Most PC manufacturers are good, given they use genuine parts from known parts manufacturers (Intel, etc.).
     -   The top manufacturers are Lenovo, HP, Dell, Asus, and Acer. Of those, HP and Dell are American.
     -   A few others I recommend are Microsoft (surface laptops) and Framework (DIY).
