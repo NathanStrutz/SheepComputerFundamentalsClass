@@ -1,11 +1,13 @@
 {
   "scripts": {
-    "dev": "vitepress dev",
+    "dev": "vitepress dev --port 5174",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
+  "devDependencies": {
+    "vitepress": "^1.0.0-rc.42"
+  },
   "dependencies": {
-    "vitepress": "^1.0.0-rc.41",
-    "vue": "^3.4.15"
+    "vue": "^3.4.18"
   }
 }
