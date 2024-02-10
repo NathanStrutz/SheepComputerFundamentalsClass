@@ -2,9 +2,9 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "Computing Fundamentals",
+	title: "Computer Fundamentals",
 	description:
-		"Information for Parents and Students about the SHEEP Computing Fundamentals class",
+		"Information for Parents and Students about the SHEEP Computer Fundamentals class",
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
