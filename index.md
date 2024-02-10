@@ -19,10 +19,13 @@ features:
     - title: What We Learn
       details: What kinds of skils will you learn in this class?
       link: /what-we-learn
+    - title: Homework
+      details: What to expect - Syllabus - What's due
+      link: /homework
     - title: Your Computer
       details: What computers can be used? Shopping tips.
       link: /computer
-    - title: Feature C
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-      link: /contact
+    - title: Buying a Computer?
+      details: We have a quick guide to shopping for a computer
+      link: /computer-shopping
 ---
