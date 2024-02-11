@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-    name: "SHEEP Computing Fundamentals"
+    name: "SHEEP Computer Fundamentals"
     text: "Parents and Students Guide"
-    tagline: "Information for Parents and Students of the SHEEP Computing Fundamentals class"
+    tagline: "Information for Parents and Students of the SHEEP Computer Fundamentals class"
 
     actions:
         - theme: brand

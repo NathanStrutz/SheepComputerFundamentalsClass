@@ -1,4 +1,10 @@
 {
+  "name": "sheepcomputingfundamentals_website",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "scripts": {
     "dev": "vitepress dev --port 5174",
     "build": "vitepress build",
