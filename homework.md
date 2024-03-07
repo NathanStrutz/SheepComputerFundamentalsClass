@@ -10,12 +10,12 @@ Some of the homework requires, what we call, "administrivia." That is, work that
 
 Some of the homework will be assigned typing practice. We expect that new students in this class can find the keyboard part of the computer, and would have a low typing speed. By the end of the school year, if they keep up with their typing homework, they will become very efficient.
 
-##### Why do we teach typing?
+##### Why teach typing?
 
 -   Faster typing speed helps all other high school and college homework complete faster
 -   Typing is a professional skill that everyone should have, especially highly paid office workers
 -   Typing proficiency produces improved test scores on computerized tests
--   Creates more confidence with a computer and less frustration
+-   It creates more confidence with a computer and less frustration
 
 ### Quizzes
 
