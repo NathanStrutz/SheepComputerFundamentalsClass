@@ -20,7 +20,7 @@ hero:
 
 features:
     - title: What We Learn
-      details: What kinds of skils will you learn in this class? Here's the syllabus to tell you.
+      details: What kinds of skills will you learn in this class? Here's the syllabus to tell you.
       link: /syllabus
     - title: Homework Preview
       details: What to expect - What's due

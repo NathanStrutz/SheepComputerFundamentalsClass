@@ -12,10 +12,10 @@ Some common issues with bringing a laptop to school are the size and weight in a
 
 1. Leave it in your car. Often parents may camp out in the parking lot or come-and-go as their children have classes in different periods. If it is convenient, leave your computer in the vehicle. I recommend storing it in the trunk or where it is not visible. This saves space in backpacks, and reduces the risk of it getting dropped, lost, or stolen throughout the day.
 
-2. Buy a smaller, especially thinner, lightweight device. While there is a higher price for sub-notebook computers, there is a lower price for a smaller screen. Look for a good compromise [when you go shopping](computer-shopping).
+2. Buy a smaller, especially thinner, lightweight device that your student can carry more easily. While there is a higher price for sub-notebook computers, there is a lower price for a smaller screen. Look for a good compromise [when you go shopping](computer-shopping).
 
     - Most laptops weight 4 to 6 pounds, but range from 2 to 8
-    - A 17" screen is extremely large and requires an oversized backpack or case, 15" is average, 12" is often too small
+    - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
 
 3. Add paint or stickers to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it.
 
@@ -31,7 +31,7 @@ Need help understanding the computer parts jargon? Check the [computer shopping]
 
 Windows-based computers are the most common computers in the world, and knowing how to use them is critical to working most jobs. I highly recommend sending your student to school with one of these.
 
-Windows 10 and 11 are the current versions. If your laptop does not have this, it's too old. If it originally shipped with windows 8 or Vista, it's also probably too old.
+Windows 10 and 11 are the current versions. If your laptop does not have this, it's too old. If it originally shipped with windows 7, 8 or Vista, it's also too old.
 
 Please check your computer for **Windows "S Mode" that won't allow us to install programs** or do the things we need in our class.
 
@@ -51,6 +51,8 @@ Many Chromebooks do not have the computing power necessary to install Linux. Thi
 
 The best way to know your Chromebook is powerful enough is to buy one with an Intel or AMD CPU. Intel should be 10th generation or newer in the i3, i5, or i7 lineup, and avoid Pentium and Celeron. AMD should be 5th generation or later Ryzen CPUs, avoid Athlon.
 
+To simplify all of this math, you can shop for a "Chromebook Plus," which is a new designation from Google that means it has enough computing power for our class.
+
 ## What Software Will Be Needed?
 
 Please make sure your child's computer has the latest operating system updates.
@@ -61,11 +63,11 @@ On Chrome OS, connect to WiFi and open the settings. Scroll down to About Chrome
 
 ---
 
-I shouldn't have to specify since all computers have shipped with a web browser since 1999, but please make sure they have a web browser that you like, such as Firefox or Chrome.
+Please make sure they have a web browser that you like, such as Firefox or Chrome.
 
 ---
 
-Throughout the year, we will install programs on this computer. You can get a glimpse of them in the [syllabus](syllabus). There won't be many, and we will prefer online tools.
+Throughout the year, we will install programs on this computer. You may get a glimpse of them in the [syllabus](syllabus). Please make sure your student has the necessary permissions on the laptop to install programs.
 
 ## What Online Accounts Will Be Made?
 
