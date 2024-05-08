@@ -10,6 +10,7 @@ title: Syllabus
 
 -   Introduction to Computers
 -   Digital Communication
+-   Google Classroom
 -   Files & Folders: Organization, Navigation, Creation, Deletion
 -   Typing (mastering keyboarding skills)
 
