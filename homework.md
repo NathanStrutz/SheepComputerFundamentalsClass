@@ -20,3 +20,7 @@ Some of the homework will be assigned typing practice. We expect that new studen
 ### Quizzes
 
 Some of the homework will be quizzes or questionnaires to reinforce knowledge. Many of them will be "open googling," meaning, anything short of copying the answer directly from the internet is fair game. Most of these quizzes will be asking questions about what we discussed in class.
+
+### Projects
+
+We may have a few medium-sized projects using office software. These will be a little bit fun, and a little bit challenging. This being our first year, we aren't fully sure what will happen, but we are thinking about creating a spreadsheet budget and making & presenting a slideshow.
