@@ -18,7 +18,7 @@ Nathan and Alanda are deacons at Grace Christian Fellowship in Ladson. They had 
 
 _Mr. Strutz, or Mr. Nathan_
 
-<img src="/images/nathan.jpg" alt="Nathan" class="profile-photo"> Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <how-many-years-ago :since="2007" /> years at Boeing, which moved the Strutz family to the lowcountry just <how-many-years-ago :since="2014" /> short years ago. Nathan started teaching _Intro to Coding_ at SHEEP in 2020, which branched into the _Computer Fundamentals_ class in 2024.
+<img src="/images/nathan.jpg" alt="Nathan" class="profile-photo"> Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <how-many-years-ago :since="2007" /> years at Boeing, which moved the Strutz family to the lowcountry just <how-many-years-ago :since="2014" /> short years ago. Nathan started teaching <a href="https://sheepcomputercodingandprogramming.netlify.app/">_Intro to Coding_ (now Computer Coding and Programming)</a> at SHEEP in 2020, which branched into the _Computer Fundamentals_ class in 2024.
 
 ## Alanda
 
