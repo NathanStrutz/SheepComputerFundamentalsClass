@@ -6,6 +6,18 @@ title: Computers for Computer Fundamentals
 
 Students are required to bring a fully working computer to class every week. It needs to have battery capacity to last the entire class hour, or else bring a power adapter and possibly an extension cord. The lessons are about computers, done while using the computer, so students will need a computer. SHEEP will not provide this for you.
 
+:::warning
+Every year, someone will
+
+- Forget their computer at home
+- Drop their computer
+- Lose their charger
+- Come to class without enough battery
+- Not have permission to install software
+
+**Don't let it be you!** Please take care of these things before you come to class.
+:::
+
 #### Practical Concerns: weight, space, dropping, thieves
 
 Some common issues with bringing a laptop to school are the size and weight in a backpack, and fear of it getting damaged, stolen, or lost. While we cannot guarantee you will be free from problems, we can recommend some solutions to plan ahead:
@@ -14,10 +26,10 @@ Some common issues with bringing a laptop to school are the size and weight in a
 
 2. Buy a smaller, especially thinner, lightweight device that your student can carry more easily. While there is a higher price for sub-notebook computers, there is a lower price for a smaller screen. Look for a good compromise [when you go shopping](computer-shopping).
 
-    - Most laptops weight 4 to 6 pounds, but range from 2 to 8
-    - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
+   - Most laptops weight 4 to 6 pounds, but range from 2 to 8
+   - A 17" screen is extremely large and requires an oversized backpack or case; 15" is average, 12" is often too small
 
-3. Add paint or stickers to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it.
+3. Add paint or stickers to make sure your computer is easily distinguishable from others. This makes it harder for someone to walk off with it, by accident or on purpose.
 
 ## What Computers Will Work?
 
@@ -55,7 +67,7 @@ To simplify all of this math, you can shop for a "Chromebook Plus," which is a n
 
 ## What Software Will Be Needed?
 
-Please make sure your child's computer has the latest operating system updates.
+Please make sure your child's computer has the latest operating system updates. We don't want to sit around while Windows Update finishes on your computer.
 
 In Windows, use the start menu to search for Windows Update, or open the Settings and click on Update & Security.
 
