@@ -11,9 +11,13 @@
     "preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-rc.42"
+    "vitepress": "^1.6.4"
   },
   "dependencies": {
-    "vue": "^3.4.18"
+    "vue": "^3.5.18"
+  },
+  "prettier": {
+    "bracketSameLine": true,
+    "printWidth": 140
   }
 }
