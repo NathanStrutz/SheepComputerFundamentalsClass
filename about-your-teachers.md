@@ -11,7 +11,7 @@ title: About Nathan & Alanda
 
 _It's pronounced "struts" like a car part. When plural, because it ends in `z`, it's "struts'es"_
 
-Nathan & Alanda have been married for <YearsSince :since="11/25/2000" /> years, and have homeschooled their 4 children since birth. This year is their <HowManyYearsAgo :since="2008" :ordinal="true" /> consecutive year teaching their own children.
+Nathan & Alanda have been married for <YearsSince since="11/25/2000" /> years, and have homeschooled their 4 children since birth. This year is their <HowManyYearsAgo :since="2008" :ordinal="true" /> consecutive year teaching their own children.
 
 Nathan and Alanda are deacons at Grace Christian Fellowship in Ladson. They had a 20 year run teaching bible lessons to middle school students (some say they still haven't quit). You'll often find them volunteering in the nursery, teaching a bible study, or bringing a dish to a friend in need.
 
@@ -19,7 +19,7 @@ Nathan and Alanda are deacons at Grace Christian Fellowship in Ladson. They had 
 
 _Mr. Strutz, or Mr. Nathan_
 
-<img src="/images/nathan.jpg" alt="Nathan" class="profile-photo"> Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <YearsSince :since="9/5/2007" /> years at Boeing, which moved the Strutz family to the lowcountry just <YearsSince :since="7/1/2014" /> short years ago. Nathan started teaching <a href="https://sheepcomputercodingandprogramming.netlify.app/">_Intro to Coding_ (now Computer Coding and Programming)</a> at SHEEP in 2020, which branched into the _Computer Fundamentals_ class in 2024.
+<img src="/images/nathan.jpg" alt="Nathan" class="profile-photo"> Nathan was born at a young age, and quickly thereafter found Jesus and computers, and has spent a lifetime connected to both. Nathan has worked in the computing field for over 25 years. Most recently, <YearsSince since="9/5/2007" /> years at Boeing, which moved the Strutz family to the lowcountry just <YearsSince since="7/1/2014" /> short years ago. Nathan started teaching <a href="https://sheepcomputercodingandprogramming.netlify.app/">_Intro to Coding_ (now Computer Coding and Programming)</a> at SHEEP in 2020, which branched into the _Computer Fundamentals_ class in 2024.
 
 ## Alanda
 
