@@ -11,3 +11,7 @@ SHEEP does not have school through the holidays - Thanksgiving through New Year'
 # Where
 
 Computer Fundamentals is taught at [S.H.E.E.P.](https://sheep.education/), at the campus in Summerville, SC.
+
+# Who
+
+This class is available to registered students. Register at [sheep.education](https://sheep.education/).
