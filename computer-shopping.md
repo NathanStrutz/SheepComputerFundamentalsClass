@@ -6,7 +6,7 @@ Set a budget (yes, computers are expensive, often hundreds of dollars, I wish th
 
 ## Tax Free Weekend
 
-South Carolina's Tax-Free Weekend was August 1-3, 2025. I hope you were able to take advantage of that benefit!
+South Carolina's Tax-Free Weekend is always the first weekend of August. Make sure to take advantage of this benefit!
 
 ## Computer Components
 
