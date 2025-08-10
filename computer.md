@@ -43,11 +43,11 @@ Need help understanding the computer parts jargon? Check the [computer shopping]
 
 Windows-based computers are the most common computers in the world, and knowing how to use them is critical to working most jobs. I highly recommend sending your student to school with one of these.
 
-Windows 10 and 11 are the current versions. If your laptop does not have this, it's too old. If it originally shipped with windows 7, 8 or Vista, it's also too old.
+Windows 11 is the current version. If your laptop does not have this, it's probably too old. If it originally shipped with windows 7, 8 or Vista, it's definitely too old.
 
 Please check your computer for **Windows "S Mode" that won't allow us to install programs** or do the things we need in our class.
 
-Please **check for Windows Updates** and install all the updates your Windows-based PC can handle. We need you to do this at home so that Windows doesn't try to install them during class. Time in our class is precious - we get 1 hour per week maximum - so we need to optimize it as much as possible.
+Please **check for Windows Updates** and install all the updates your Windows-based PC can handle. We need you to do this at home so that Windows doesn't try to install them during class. Time in our class is precious - we get 1 hour per week maximum, so we need to optimize it as much as possible.
 
 :::tip Permissions Check
 Please check to make sure that your student has the necessary permissions in Windows to install programs when we need to. Check the User Account Controls. If your student has a child account or limited account, please remove these restrictions.
@@ -61,7 +61,7 @@ Chrome OS is wildly popular in schools because of its lower price. Chromebooks r
 Many Chromebooks do not have the computing power necessary to install Linux. This is especially true for older Chromebooks and those running MediaTek or Qualcomm (smartphone) CPUs.
 :::
 
-The best way to know your Chromebook is powerful enough is to buy one with an Intel or AMD CPU. Intel should be 10th generation or newer in the i3, i5, or i7 lineup, and avoid Pentium and Celeron. AMD should be 5th generation or later Ryzen CPUs, avoid Athlon.
+The best way to know your Chromebook is powerful enough is to buy one with an Intel or AMD CPU. Intel should be 10th generation or newer, something like the i3, i5, or i7 lineup, and avoid Pentium and Celeron. AMD should be 5th generation or later Ryzen CPUs, avoid Athlon.
 
 To simplify all of this math, you can shop for a "Chromebook Plus," which is a new designation from Google that means it has enough computing power for our class.
 
@@ -79,7 +79,7 @@ Please make sure they have a web browser that you like, such as Firefox or Chrom
 
 ---
 
-Throughout the year, we will install programs on this computer. You may get a glimpse of them in the [syllabus](syllabus). Please make sure your student has the necessary permissions on the laptop to install programs.
+Throughout the year, we will install programs on this computer. You may get a glimpse of them in the [syllabus](syllabus). Please make sure your student has all the necessary permissions on the laptop to install programs.
 
 ## What Online Accounts Will Be Made?
 
