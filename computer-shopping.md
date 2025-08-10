@@ -18,7 +18,7 @@ While computers are inherently technical, shopping for computers feels 10x more 
   - For AMD CPUs, go with the Ryzen 3, 5, and 7 lineup. AMD CPUs have 4-digit numbers (then usually some letters), and the first number denotes the generation. You don't want to go older than the 5000 series (5th generation), e.g. `5300U`.
 - **RAM (Memory)**, determines how many things the computer can do at the same time
   - 8 <abbr title="Gigabyte, 1 billion bytes">GB</abbr> is the bare minimum, but hasn't been a good amount for a few years.
-  - 16 GB is good, the normal amount for 2024.
+  - 16 GB is good, the normal amount for most PCs this year.
   - Higher than 16 GB is fairly rare and usually pretty extreme.
 - **Storage**, larger sizes hold more programs (typically small) and games (typically large), as well as photos and videos
   - On a laptop, the **speed matters far more than the size of the disk**. Traditional spinning hard drives (HDDs) are extremely slow in comparison to much faster solid state drives (SSDs), however a SSD won't hold nearly as much data as a HDD. The speed boost is _far worth the trade_ - choose SSD over HDD! It's the difference between the computer starting in 5 seconds vs 5 minutes.
